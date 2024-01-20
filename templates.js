@@ -1261,3 +1261,429 @@ ul.social li{
 </body>
 </html>
 `;
+const template3 =`<title>Marketing News</title>
+<link rel="shortcut icon" href="favicon.ico" />
+<style type="text/css">
+table[name="blk_permission"], table[name="blk_footer"] {display:none;}
+</style>
+<meta name="googlebot" content="noindex" />
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<table name="bmeMainBody" style="background-color: rgb(230, 230, 230);" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#e6e6e6">
+	<tbody>
+		<tr>
+			<td width="100%" valign="top" align="center">
+			<table name="bmeMainColumnParentTable" width="100%" cellspacing="0" cellpadding="0" border="0">
+				<tbody>
+					<tr>
+						<td name="bmeMainColumnParent" style="border: 0px none transparent; border-radius: 0px; border-collapse: separate; border-spacing: 0px;">
+						<table name="bmeMainColumn" class="" style="max-width: 100%; overflow: visible;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+							<tbody>
+								<tr>
+									<td class="blk_container bmeHolder" name="bmePreHeader" style="color: rgb(102, 102, 102); border: 0px none transparent;" width="100%" valign="top" bgcolor="" align="center">
+									<div id="dv_2" class="blk_wrapper">
+									<table class="blk" name="blk_permission" style="" width="600" cellspacing="0" cellpadding="0" border="0">
+										<tbody>
+											<tr>
+												<td name="tblCell" style="padding:20px;" valign="top" align="left">
+												<table width="100%" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td name="bmePermissionText" style="text-align:left;" align="left"><span style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px;line-height: 140%;"><a style="color: #16a7e0;" target="_new" href="[ViewWebURL]">View this email in your browser</a></span></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</div>
+									</td>
+								</tr>
+								<tr>
+									<td class="bmeHolder" name="bmeMainContentParent" style="border: 0px none transparent; border-radius: 0px; border-collapse: separate; border-spacing: 0px; overflow: hidden;" width="100%" valign="top" align="center">
+									<table name="bmeMainContent" style="border-radius: 0px; border-collapse: separate; border-spacing: 0px; border: 0px none transparent;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+										<tbody>
+											<tr>
+												<td class="blk_container bmeHolder" name="bmeHeader" style="border: 0px none transparent; background-color: rgb(39, 96, 112);" width="100%" valign="top" bgcolor="#276070" align="center">
+												<div id="dv_4" class="blk_wrapper">
+												<table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td class="tblCellMain" style="padding: 10px 20px;">
+															<table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_1" class="blk_wrapper">
+												<table class="blk" name="blk_navbar" style="" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td>
+															<table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td style="padding-right:20px; padding-left:20px; padding-top:20px; padding-bottom:20px;" valign="top" align="left">
+																		<table width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+																			<tbody>
+																				<tr>
+																					<td class="tdPart" width="30%" valign="center" align="left">
+																					<table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="left">
+																						<tbody>
+																							<tr>
+																								<td valign="top"><!--[if gte mso 6]></td>
+																								<td align="left" valign="top"><![endif]-->
+																								<table style="float:left;" linkid="1" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left">
+																									<tbody>
+																										<tr>
+																											<td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 0px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="22" align="left"><a href="#" style="text-decoration:none;"><span style="font-family:Arial; font-size: 14px;color:#64656c;"><img src="https://techmarkapp.netlify.app/images/logo-2.png" style="display: inline-block; max-width: 111px;" alt="" width="111" border="0" /></span></a></td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								</td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																					<td class="tdPart" width="70%" valign="center" align="left">
+																					<table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="right">
+																						<tbody>
+																							<tr>
+																								<td valign="top"><!--[if gte mso 6]></td>
+																								<td align="left" valign="top"><![endif]-->
+																								<table style="float:left;" linkid="2" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left">
+																									<tbody>
+																										<tr>
+																											<td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="22" align="left"><a href="#" style="text-decoration:none;"><span style="font-family:Arial; font-size: 14px;color:#64656c;"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/MarketingNews/Facebook.png" style="display: inline-block; max-width: 7px;" alt="" width="7" border="0" /></span></a></td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								<!--[if gte mso 6]></td>
+																								<td align="left" valign="top"><![endif]-->
+																								<table style="float:left;" linkid="3" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left">
+																									<tbody>
+																										<tr>
+																											<td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="22" align="left"><a href="#" style="text-decoration:none;"><span style="font-family:Arial; font-size: 14px;color:#64656c;"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/MarketingNews/Twitter.png" style="display: inline-block; max-width: 15px;" alt="" width="15" border="0" /></span></a></td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								<!--[if gte mso 6]></td>
+																								<td align="left" valign="top"><![endif]-->
+																								<table style="float:left;" linkid="4" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left">
+																									<tbody>
+																										<tr>
+																											<td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="22" align="left"><a href="#" style="text-decoration:none;"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: rgb(255, 255, 255);">+91 8796775539 </span></a></td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								</td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_5" class="blk_wrapper">
+												<table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td class="tblCellMain" style="padding: 20px;">
+															<table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_3" class="blk_wrapper">
+												<table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td>
+															<table width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td class="bmeImage" style="padding: 0px; border-collapse: collapse;" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/MarketingNews/Header.jpg" style="max-width: 1200px; display: block; width: 600px;" alt="" width="600" border="0" /></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</td>
+											</tr>
+											<tr>
+												<td class="blk_container bmeHolder" name="bmeBody" style="color: rgb(56, 56, 56); border: 0px none transparent; background-color: rgb(230, 230, 230);" width="100%" valign="top" bgcolor="#e6e6e6" align="center">
+												<div id="dv_7" class="blk_wrapper">
+												<table class="blk" name="blk_divider" style="background-color: rgb(255, 255, 255);" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td class="tblCellMain" style="padding: 20px;">
+															<table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_11" class="blk_wrapper">
+												<table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td>
+															<table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td class="tdPart" style="background-color: rgb(255, 255, 255);" valign="top" align="center">
+																		<table name="tblText" style="float: left; background-color: rgb(255, 255, 255);" width="290" cellspacing="0" cellpadding="0" border="0" align="left">
+																			<tbody>
+																				<tr>
+																					<td name="tblCell" style="padding: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" class="bmeMblCenter" valign="top" align="left">
+																					<div style="line-height: 200%;"><span style="font-size: 16px; color: #0a0a0a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; line-height: 200%;"><strong>Online Strategies</strong></span><br />
+																					<br />
+																					<span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #8d8d8d; line-height: 200%;">You put hard work into designing your email campaign and this section is that first thing you cannot wait to share. You're excited about it and your subscribers will feel that.</span></div>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																		<td class="tdPart" style="background-color: rgb(255, 255, 255);" valign="top" align="center">
+																		<table name="tblGtr" style="float:right;" width="20" cellspacing="0" cellpadding="0" border="0" align="right">
+																			<tbody>
+																				<tr>
+																					<td> </td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																		<td class="tdPart" style="background-color: rgb(255, 255, 255);" valign="top" align="center">
+																		<table name="tblText" style="float: right; background-color: rgb(255, 255, 255);" width="290" cellspacing="0" cellpadding="0" border="0" align="right">
+																			<tbody>
+																				<tr>
+																					<td name="tblCell" style="padding-left:20px; padding-right:20px; padding-top:20px; padding-bottom:20px; font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" class="bmeMblCenter" valign="top" align="left">
+																					<div style="line-height: 200%;"><span style="font-size: 16px; color: #0a0a0a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; line-height: 200%;"><strong>Tips You Should Know</strong></span><br />
+																					<br />
+																					<span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #8d8d8d; line-height: 200%;">You put hard work into designing your email campaign and this section is that first thing you cannot wait to share. You're excited about it and your subscribers will feel that.</span></div>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_13" class="blk_wrapper">
+												<table class="blk" name="blk_divider" style="background-color: rgb(255, 255, 255);" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td class="tblCellMain" style="padding: 10px 20px;">
+															<table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_12" class="blk_wrapper">
+												<table class="blk" name="blk_imagecaption" style="background-color: rgb(255, 255, 255);" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td>
+															<table class="bmeCaptionContainer" style="padding-left:20px; padding-right:20px; padding-top:10px; padding-bottom:10px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0">
+																<tbody>
+																	<tr>
+																		<td class="bmeImageContainerRow" gutter="10" valign="top">
+																		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+																			<tbody>
+																				<tr>
+																					<td class="tdPart" valign="top">
+																					<table class="bmeImageContainer" style="float:left;" width="560" cellspacing="0" cellpadding="0" border="0" align="left">
+																						<tbody>
+																							<tr>
+																								<td name="tdContainer" valign="top">
+																								<table class="bmeImageTable" dimension="30%" imgid="1" style="float:left;" width="177" height="112" cellspacing="0" cellpadding="0" border="0" align="left">
+																									<tbody>
+																										<tr>
+																											<td name="bmeImgHolder" class="bmeMblCenter" width="187" valign="top" height="112" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/MarketingNews/Pen.png" style="max-width: 320px; display: block;" width="177" border="0" /></td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								<table class="bmeCaptionTable" style="float:right;" width="363" cellspacing="0" cellpadding="0" border="0" align="right">
+																									<tbody>
+																										<tr>
+																											<td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" class="bmeMblCenter" valign="top" align="left">
+																											<div style="line-height: 200%;"><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #8d8d8d; line-height: 200%;">You had to be excited enough about something to decide to send this email campaign. This is where that news goes. Think of it as your mountaintop to shout from.</span></div>
+																											</td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								</td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_14" class="blk_wrapper">
+												<table class="blk" name="blk_button" style="background-color: rgb(255, 255, 255);" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td width="40"></td>
+															<td align="center">
+															<table class="tblContainer" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td height="15"></td>
+																	</tr>
+																	<tr>
+																		<td align="center">
+																		<table class="bmeButton" style="border-collapse: separate;" cellspacing="0" cellpadding="0" border="0" align="center">
+																			<tbody>
+																				<tr>
+																					<td style="border-radius: 5px; border: 0px none rgba(0, 0, 0, 0); text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 14px; padding: 15px 40px; font-weight: normal; border-collapse: separate; background-color: rgb(39, 96, 112);" class="bmeButtonText"><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif; font-size: 14px; color: rgb(255, 255, 255);"><a style="color:#FFFFFF;text-decoration:none;" target="_blank">Read All</a></span></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td height="15"></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+															<td width="40"></td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_15" class="blk_wrapper">
+												<table class="blk" name="blk_divider" style="background-color: rgb(255, 255, 255);" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td class="tblCellMain" style="padding-top:20px; padding-bottom:20px;padding-left:20px;padding-right:20px;">
+															<table class="tblLine" style="border-top-width: 1px; border-top-color: rgb(230, 230, 230); border-top-style: solid; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td><span></span></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_16" class="blk_wrapper">
+												<table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td>
+															<table width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td class="bmeImage" style="border-collapse: collapse; padding: 20px; background-color: rgb(255, 255, 255);" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/MarketingNews/Desktop.jpg" style="max-width: 1040px; display: block; width: 560px;" alt="" width="560" border="0" /></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												<div id="dv_17" class="blk_wrapper">
+												<table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0">
+													<tbody>
+														<tr>
+															<td>
+															<table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0">
+																<tbody>
+																	<tr>
+																		<td class="tdPart" style="background-color: rgb(255, 255, 255);" valign="top" align="center">
+																		<table name="tblText" style="float: left; background-color: rgb(255, 255, 255);" width="600" cellspacing="0" cellpadding="0" border="0" align="left">
+																			<tbody>
+																				<tr>
+																					<td name="tblCell" style="padding: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left">
+																					<div style="line-height: 200%;"><span style="font-size: 16px; color: #0a0a0a; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; line-height: 200%;"><strong>Marketing Online Tutorials</strong></span><br />
+																					<br />
+																					<span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #8d8d8d; line-height: 200%;">You know how when something totally awesome happens during your day and you cannot wait to share the story with a significant other, family or friends? You rush home or dial as fast as you can and it's the first thing that's blurted out of your mouth after pleasantries. This section is that story.</span></div>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+`;
