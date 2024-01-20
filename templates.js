@@ -1,5 +1,4 @@
-const template1 =
-`<!DOCTYPE html>
+const template1 = `<!DOCTYPE html>
 <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
@@ -184,7 +183,7 @@ const template1 =
 															<td class="pad" style="vertical-align: middle;">
 																<table class="alignment" cellpadding="0" cellspacing="0" role="presentation" align="center" >
 																	<tr>
-																		<td style="vertical-align: middle; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;"><img class="icon" src="https://techmark192.github.io/templates/template1/images/logo.png" alt="company logo" height="64" width="104" align="center" style="display: block; height: auto; margin: 0 auto; border: 0;"></td>
+																		<td style="vertical-align: middle; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;"><img class="icon" src="https://techmark192.github.io/templates/img1/logo.png" alt="company logo" height="64" width="104" align="center" style="display: block; height: auto; margin: 0 auto; border: 0;"></td>
 																	</tr>
 																</table>
 															</td>
@@ -208,7 +207,7 @@ const template1 =
 														<tr>
 															<td class="pad" style="padding-bottom:25px;padding-top:25px;width:100%;">
 																<div class="alignment" align="center" style="line-height:10px">
-																	<div style="max-width: 680px;"><img src="https://techmark192.github.io/templates/template1/images/HEADER.png" style="display: block; height: auto; border: 0; width: 100%;" width="680" alt="Flower-decoration" title="Flower-decoration"></div>
+																	<div style="max-width: 680px;"><img src="https://techmark192.github.io/templates/img1/HEADER.png" style="display: block; height: auto; border: 0; width: 100%;" width="680" alt="Flower-decoration" title="Flower-decoration"></div>
 																</div>
 															</td>
 														</tr>
@@ -386,7 +385,7 @@ const template1 =
 														<tr>
 															<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
 																<div class="alignment" align="center" style="line-height:10px">
-																	<div class="fullWidth" style="max-width: 206px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/template1/images/flower-03.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="206" alt="Flower Bouquet" title="Flower Bouquet"></a></div>
+																	<div class="fullWidth" style="max-width: 206px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/img1/flower-03.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="206" alt="Flower Bouquet" title="Flower Bouquet"></a></div>
 																</div>
 															</td>
 														</tr>
@@ -423,7 +422,7 @@ const template1 =
 														<tr>
 															<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
 																<div class="alignment" align="center" style="line-height:10px">
-																	<div class="fullWidth" style="max-width: 206px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/template1/images/flower-02.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="206" alt="Flower Bouquet" title="Flower Bouquet"></a></div>
+																	<div class="fullWidth" style="max-width: 206px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/img1/flower-02.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="206" alt="Flower Bouquet" title="Flower Bouquet"></a></div>
 																</div>
 															</td>
 														</tr>
@@ -460,7 +459,7 @@ const template1 =
 														<tr>
 															<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
 																<div class="alignment" align="center" style="line-height:10px">
-																	<div class="fullWidth" style="max-width: 206px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/template1/images/flower-01.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="206" alt="Flower Bouquet" title="Flower Bouquet"></a></div>
+																	<div class="fullWidth" style="max-width: 206px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/img1/flower-01.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="206" alt="Flower Bouquet" title="Flower Bouquet"></a></div>
 																</div>
 															</td>
 														</tr>
@@ -529,7 +528,7 @@ const template1 =
 															<tr>
 																<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
 																	<div class="alignment" align="center" style="line-height:10px">
-																		<div style="max-width: 340px;"><img src="https://techmark192.github.io/templates/template1/images/about.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="340" alt="Woman with a bouquet" title="Woman with a bouquet"></div>
+																		<div style="max-width: 340px;"><img src="https://techmark192.github.io/templates/img1/about.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="340" alt="Woman with a bouquet" title="Woman with a bouquet"></div>
 																	</div>
 																</td>
 															</tr>
@@ -657,7 +656,7 @@ const template1 =
 														<tr>
 															<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
 																<div class="alignment" align="center" style="line-height:10px">
-																	<div style="max-width: 103.33333333333331px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/template1/images/review-2.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="103.33333333333331" alt="Testimonial" title="Testimonial"></a></div>
+																	<div style="max-width: 103.33333333333331px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/img1/review-2.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="103.33333333333331" alt="Testimonial" title="Testimonial"></a></div>
 																</div>
 															</td>
 														</tr>
@@ -688,7 +687,7 @@ const template1 =
 														<tr>
 															<td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
 																<div class="alignment" align="center" style="line-height:10px">
-																	<div style="max-width: 103.33333333333331px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/template1/images/review.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="103.33333333333331" alt="Testimonial" title="Testimonial"></a></div>
+																	<div style="max-width: 103.33333333333331px;"><a href="www.example.com/index.html" target="_blank" style="outline:none" tabindex="-1"><img src="https://techmark192.github.io/templates/img1/review.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="103.33333333333331" alt="Testimonial" title="Testimonial"></a></div>
 																</div>
 															</td>
 														</tr>
@@ -731,7 +730,7 @@ const template1 =
 														<tr>
 															<td class="pad" style="padding-bottom:5px;padding-left:10px;padding-right:10px;width:100%;">
 																<div class="alignment" align="left" style="line-height:10px">
-																	<div style="max-width: 82.66666666666667px;"><img src="https://techmark192.github.io/templates/template1/images/logo-white.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="82.66666666666667" alt="company logo" title="company logo"></div>
+																	<div style="max-width: 82.66666666666667px;"><img src="https://techmark192.github.io/templates/img1/logo-white.jpg" style="display: block; height: auto; border: 0; width: 100%;" width="82.66666666666667" alt="company logo" title="company logo"></div>
 																</div>
 															</td>
 														</tr
