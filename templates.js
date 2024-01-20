@@ -1,4 +1,4 @@
-const template6 =`<!DOCTYPE html>    
+const template1 =`<!DOCTYPE html>    
 <html>    
 <head>
 <title>Tech Devices</title>
@@ -876,7 +876,7 @@ table[name="blk_permission"], table[name="blk_footer"] {display:none;}
 </body>    
 </html>`;
 
-const template1 = `<!DOCTYPE html>
+const template6 = `<!DOCTYPE html>
 <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
