@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+const template1 =
+`<!DOCTYPE html>
 <html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
@@ -750,10 +751,10 @@
 																<div class="alignment" align="left">
 																	<table class="social-table" width="144px" border="0" cellpadding="0" cellspacing="0" role="presentation" style="  display: inline-block;">
 																		<tr>
-																			<td style="padding:0 4px 0 0;"><a href="https://www.facebook.com/" target="_blank"><img src="../../app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/facebook%402x.png" width="32" height="32" alt="Facebook" title="facebook" style="display: block; height: auto; border: 0;"></a></td>
-																			<td style="padding:0 4px 0 0;"><a href="https://www.twitter.com/" target="_blank"><img src="../../app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/twitter%402x.png" width="32" height="32" alt="Twitter" title="twitter" style="display: block; height: auto; border: 0;"></a></td>
-																			<td style="padding:0 4px 0 0;"><a href="https://www.linkedin.com/" target="_blank"><img src="../../app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/linkedin%402x.png" width="32" height="32" alt="Linkedin" title="linkedin" style="display: block; height: auto; border: 0;"></a></td>
-																			<td style="padding:0 4px 0 0;"><a href="https://www.instagram.com/" target="_blank"><img src="../../app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-white/instagram%402x.png" width="32" height="32" alt="Instagram" title="instagram" style="display: block; height: auto; border: 0;"></a></td>
+																			<td style="padding:0 4px 0 0;"><a href="https://www.facebook.com/" target="_blank"><img src="https://techmark192.github.io/templates/facebook2x.png" width="32" height="32" alt="Facebook" title="facebook" style="display: block; height: auto; border: 0;"></a></td>
+																			<td style="padding:0 4px 0 0;"><a href="https://www.twitter.com/" target="_blank"><img src="https://techmark192.github.io/templates/twitter2x.png" width="32" height="32" alt="Twitter" title="twitter" style="display: block; height: auto; border: 0;"></a></td>
+																			<td style="padding:0 4px 0 0;"><a href="https://www.linkedin.com/" target="_blank"><img src="https://techmark192.github.io/templates/linkedin2x.png" width="32" height="32" alt="Linkedin" title="linkedin" style="display: block; height: auto; border: 0;"></a></td>
+																			<td style="padding:0 4px 0 0;"><a href="https://www.instagram.com/" target="_blank"><img src="https://techmark192.github.io/templates/instagram2x.png" width="32" height="32" alt="Instagram" title="instagram" style="display: block; height: auto; border: 0;"></a></td>
 																		</tr>
 																	</table>
 																</div>
@@ -862,8 +863,8 @@
 																		
 																			<table class="icons-inner" style="  display: inline-block; margin-right: -4px; padding-left: 0px; padding-right: 0px;" cellpadding="0" cellspacing="0" role="presentation">
 																				<tr>
-																					<td style="vertical-align: middle; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 6px;"><a href="https://techmarkapp.netlify.app/" target="_blank" style="text-decoration: none;"><img class="icon" alt="Beefree Logo" src="https://techmarkapp.netlify.app/images/logo-2.png" height="32" width="34" align="center" style="display: block; height: auto; margin: 0 auto; border: 0;"></a></td>
-																					<td style="font-family: 'Inter', sans-serif; font-size: 15px; font-weight: undefined; color: #1e0e4b; vertical-align: middle; letter-spacing: undefined; text-align: center;"><a href="https://techmarkapp.netlify.app/" target="_blank" style="color: #1e0e4b; text-decoration: none;">Designed with Beefree</a></td>
+																					<td style="vertical-align: middle; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 6px;"><a href="https://techmarkapp.netlify.app/" target="_blank" style="text-decoration: none;"><img class="icon" alt="TechMark Logo" src="https://techmarkapp.netlify.app/images/logo-2.png" height="32" width="34" align="center" style="display: block; height: auto; margin: 0 auto; border: 0;"></a></td>
+																					<td style="font-family: 'Inter', sans-serif; font-size: 15px; font-weight: undefined; color: #1e0e4b; vertical-align: middle; letter-spacing: undefined; text-align: center;"><a href="https://techmarkapp.netlify.app/" target="_blank" style="color: #1e0e4b; text-decoration: none;">Designed with TechMark</a></td>
 																				</tr>
 																			</table>
 																		</td>
@@ -885,4 +886,4 @@
 		</tbody>
 	</table>
 </body>
-</html>
+</html>`;
