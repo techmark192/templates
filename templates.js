@@ -1,3 +1,5 @@
+const templates = [template1,template2,template3,template4,template5,template6];
+
 const template1 =`<!DOCTYPE html>    
 <html>    
 <head>
