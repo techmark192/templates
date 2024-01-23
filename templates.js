@@ -2160,9 +2160,6 @@ ul.social li{
 </html>
 `;
 const template8 =`
-
-
- 
 <!DOCTYPE html>    
 <html>    
 <head>
@@ -2798,9 +2795,6 @@ var popUpWin=0;
 </body>    
 </html>`;
 const template10 =`
-
-
- 
 <!DOCTYPE html>    
 <html>    
 <head>
@@ -5905,8 +5899,1269 @@ const template13 =`<!DOCTYPE html>
   </body>
 </html>
 `;
+const template14 =`<!DOCTYPE html>    
+<html>    
+<head>
+<title>Bow-Peach</title>
+<link rel="shortcut icon" href="favicon.ico">
+<style type="text/css">
+table[name="blk_permission"], table[name="blk_footer"] {display:none;} 
+</style>
+<meta name="googlebot" content="noindex" />
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"/>    
+<meta content="width=device-width, initial-scale=1.0" name="viewport">       
+</head>    
+<body marginheight=0 marginwidth=0 topmargin=0 leftmargin=0 style="height: 100% !important; margin: 0; padding: 0; width: 100% !important;min-width: 100%;">    
+    
+<table name="bmeMainBody" style="background-color: rgb(199, 212, 218);" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#c7d4da"><tbody><tr><td width="100%" valign="top" align="center"><table name="bmeMainColumnParentTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeMainColumnParent" style="border-collapse: separate; border: 0px none transparent; border-radius: 0px;"> <table name="bmeMainColumn" class="bmeHolder" style="max-width: 600px; border-radius: 0px; border-collapse: separate; border-spacing: 0px;" cellspacing="0" cellpadding="0" border="0" align="center">    <tbody><tr><td class="blk_container bmeHolder" name="bmePreHeader" style="color: rgb(102, 102, 102); border: 0px none transparent;" width="100%" valign="top" bgcolor="" align="center"><div id="dv_1" class="blk_wrapper"><table class="blk" name="blk_permission" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="padding:20px;"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmePermissionText" style="text-align: left;" align="left"><span style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px;line-height: 140%;"><a style="color: #16a7e0;" target="_new" href="[ViewWebURL]">View this email in your browser</a></span></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> <tr><td class="bmeHolder" name="bmeMainContentParent" style="border: 0px none rgb(128, 128, 128); border-radius: 0px; border-collapse: separate; border-spacing: 0px; overflow: hidden;" width="100%" valign="top" align="center"> <table name="bmeMainContent" style="border-radius: 0px; border-collapse: separate; border-spacing: 0px; border: 0px none transparent;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> <tbody><tr><td class="blk_container bmeHolder" name="bmeHeader" style="border: 0px none transparent;" width="100%" valign="top" bgcolor="" align="center"><div id="dv_2" class="blk_wrapper"><table class="blk" name="blk_image" style="border: 0px none transparent;" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="bmeImage" style="padding: 0px;" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/Bow/Greeting2/TopBow-Peach.png" style="max-width: 1200px; display: block;" alt="" width="600" border="0"></td></tr></tbody></table></div></td></tr> <tr><td class="blk_container bmeHolder" name="bmeBody" style="color: rgb(56, 56, 56); border: 0px none transparent; background-color: rgb(255, 255, 249);" width="100%" valign="top" bgcolor="#fffff9" align="center"><div id="dv_10" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float:left; background-color:transparent;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 48px; font-family: Times New Roman,Times; color: #617c8b; line-height: 125%;"><em><strong>Happy Birthday</strong></em></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_9" class="blk_wrapper"><table class="blk" name="blk_boxtext" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeBoxContainer" style="padding-left:20px; padding-right:20px; padding-top:0px; padding-bottom:0px;" align="center"><table name="tblText" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="padding: 20px; font-family:Arial, Helvetica, sans-serif; font-weight: normal; font-size: 14px; color: #383838;background-color:rgba(0, 0, 0, 0); border-collapse: collapse;" name="tblCell" valign="top" align="left"><div style="line-height: 200%; text-align: center;"><span style="font-size: 16px; font-family: Helvetica,Calibri,Arial,sans-serif; color: #aeaeae; line-height: 200%;">Our team wanted to wish you a very happy birthday! Please enjoy this gift from us to you. Just enter the following promo code during checkout, and we'll apply it to your purchase. Cheers to you!</span></div></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_14" class="blk_wrapper"><table class="blk" name="blk_boxtext" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeBoxContainer" style="padding-left:20px; padding-right:20px; padding-top:5px; padding-bottom:5px;" align="center"><table name="tblText" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="padding: 20px; font-family:Arial, Helvetica, sans-serif; font-weight: normal; font-size: 14px; color: #383838;background-color:rgba(0, 0, 0, 0); border-collapse: collapse;" name="tblCell" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-size: 30px; font-family: Times New Roman,Times; color: #617c8b; line-height: 150%;"><em>15% Off Your Next Purchase</em></span><br><span style="font-size: 12px; font-family: Helvetica,Calibri,Arial,sans-serif; color: #617c8b; line-height: 150%;">Use promo code BDAY15 at checkout.</span></div></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_3" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 10px 0px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 600px; border-top-color: rgb(225, 225, 225);" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_11" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float:left; background-color:transparent;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 200%; text-align: center;"><span style="font-size: 16px; font-family: Helvetica, Calibri, Arial, sans-serif; color: #aeaeae; line-height: 200%;">Offer valid through May 30.</span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_12" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 15px 0px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 600px; border-top-color: rgb(225, 225, 225);" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_5" class="blk_wrapper"><table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="bmeImage" style="padding: 10px 0px;" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/Bow/Greeting2/BottomRibbon-Peach.png" style="max-width: 1200px; display: block;" alt="" width="600" border="0"></td></tr></tbody></table></div><div id="dv_4" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 10px 0px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 600px; border-top-color: rgb(225, 225, 225);" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> <tr><td class="blk_container bmeHolder" name="bmePreFooter" style="border: 0px none transparent;" width="100%" valign="top" bgcolor="" align="center"><div id="dv_13" class="blk_wrapper"><table class="blk" name="blk_navbar" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="padding-right:20px; padding-left:20px; padding-top:20px; padding-bottom:20px;" valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td class="tdPart" width="99%" valign="center" align="center"><table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td valign="top"><table style="float:left;" linkid="1" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 0px;padding-right: 20px;border-right-style:solid;border-right-width:2px;border-right-color:rgb(255, 255, 249);" class="bmeMblCenter" valign="center" height="16" align="left"><a href="#" style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 12px; color: rgb(97, 124, 139); text-decoration: none; font-weight: normal; font-style: normal;">New Arrivals</a></td></tr></tbody></table><table style="float:left;" linkid="2" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;border-right-style:solid;border-right-width:2px;border-right-color:rgb(255, 255, 249);" class="bmeMblCenter" valign="center" height="16" align="left"><a href="#" style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 12px; color: rgb(97, 124, 139); text-decoration: none; font-weight: normal; font-style: normal;">Shop Sale</a></td></tr></tbody></table><table style="float:left;" linkid="3" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;border-right-style:solid;border-right-width:2px;border-right-color:rgb(255, 255, 249);" class="bmeMblCenter" valign="center" height="16" align="left"><a href="#" style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 12px; color: rgb(97, 124, 139); text-decoration: none; font-weight: normal; font-style: normal;">Gift Ideas</a></td></tr></tbody></table><table style="float:left;" linkid="4" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;border-right-style:solid;border-right-width:2px;border-right-color:rgb(255, 255, 249);" class="bmeMblCenter" valign="center" height="16" align="left"><a href="#" style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 12px; color: rgb(97, 124, 139); text-decoration: none; font-weight: normal; font-style: normal;">Find Location</a></td></tr></tbody></table><table style="float:left;" linkid="5" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="16" align="left"><a href="#" style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 12px; color: rgb(97, 124, 139); text-decoration: none; font-weight: normal; font-style: normal;">Contact Us</a></td></tr></tbody></table></td></tr></tbody></table></td><td class="tdPart" width="1%" valign="center" align="center"><table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td valign="top"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_7" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 20px 0px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 600px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> </tbody></table> </td></tr>  <tr><td class="blk_container bmeHolder" name="bmeFooter" style="color: rgb(102, 102, 102); border: 0px none transparent;" width="100%" valign="top" bgcolor="" align="center"><div id="dv_8" class="blk_wrapper"><table class="blk" name="blk_footer" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="padding:20px;" valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeBadgeText" style="text-align:center;" align="center"><span id="spnFooterText" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; line-height: 140%;"><var type="BME_CANSPAM">This message was sent to test@benchmarkemail.com by <span style="text-decoration:underline;">Benchmark Templates</span></var><br><var type="BME_ADDRESS">10621 Calle Lee, Building 141, Los Alamitos, CA, 90720</var></span><br><br><span style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; line-height: 140%;"><var type="BME_LINKS"><span style="text-decoration:underline" href="#"><img src="https://www.benchmarkemail.com/images/verified.png" alt="Unsubscribe from all mailings" title="Unsubscribe from all mailings" border="0"></span><span style="text-decoration:underline;">Unsubscribe</span> | <span style="text-decoration:underline;">Manage Subscription</span> |  <span style="text-decoration:underline;">Forward Email</span>  |  <span style="text-decoration:underline;">Report Abuse</span></var><br></span></td></tr><tr><td name="bmeBadgeImage" style="text-align: center; padding-top: 20px; word-break: break-all;" align="center"><var type="BME_BADGE"><img src="https://www.benchmarkemail.com/images/web4/misc/emailfooter/opt9.png" name="bmeBadgeImage" border="0"></var></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> </tbody></table></td></tr></tbody></table></td></tr></tbody></table>    
+</body>    
+</html> `;
 
+const template15=`<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <meta name="googlebot" content="noindex" />
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW" />
+    <link rel="stylesheet" href="https://benchmarkemail.benchmarkurl.com/style/dhtmlwindow.css" type="text/css" />
+    <script type="text/javascript" src="https://benchmarkemail.benchmarkurl.com/script/dhtmlwindow.js">
 
+    </script>
+    <link rel="stylesheet" href="https://benchmarkemail.benchmarkurl.com/style/modal.css" type="text/css" />
+    <script type="text/javascript" src="https://benchmarkemail.benchmarkurl.com/script/modal.js"></script>
+    <script type="text/javascript">
+      function show_popup(popup_name, popup_url, popup_title, width, height) {
+        var widthpx = width + "px";
+        var heightpx = height + "px";
+        emailwindow = dhtmlmodal.open(popup_name, 'iframe', popup_url, popup_title, 'width=' + widthpx + ',height=' + heightpx + ',center=1,resize=0,scrolling=1');
+      }
 
+      function show_modal(popup_name, popup_url, popup_title, width, height) {
+        var widthpx = width + "px";
+        var heightpx = height + "px";
+        emailwindow = dhtmlmodal.open(popup_name, 'iframe', popup_url, popup_title, 'width=' + widthpx + ',height=' + heightpx + ',modal=1,center=1,resize=0,scrolling=1');
+      }
+      var popUpWin = 0;
+
+      function popUpWindow(URLStr, PopUpName, width, height) {
+        if (popUpWin) {
+          if (!popUpWin.closed) popUpWin.close();
+        }
+        var left = (screen.width - width) / 2;
+        var top = (screen.height - height) / 2;
+        popUpWin = open(URLStr, PopUpName, 'toolbar=0,location=0,directories=0,status=0,menub   ar=0,scrollbar=0,resizable=0,copyhistory=yes,width=' + width + ',height=' + height + ',left=' + left + ',   top=' + top + ',screenX=' + left + ',screenY=' + top + '');
+      }
+    </script>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <style type="text/css">
+   
+      [name=bmeMainBody] {
+        min-height: 1000px;
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        table.blk,
+        table.tblText,
+        .bmeHolder,
+        .bmeHolder1,
+        table.bmeMainColumn {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeImageCard table.bmeCaptionTable td.tblCell {
+          padding: 0px 20px 20px 20px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeImageCard table.bmeCaptionTable.bmeCaptionTableMobileTop td.tblCell {
+          padding: 20px 20px 0 20px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        table.bmeCaptionTable td.tblCell {
+          padding: 10px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        table.tblGtr {
+          padding-bottom: 20px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        td.blk_container,
+        .blk_parent,
+        .bmeLeftColumn,
+        .bmeRightColumn,
+        .bmeColumn1,
+        .bmeColumn2,
+        .bmeColumn3,
+        .bmeBody {
+          display: table !important;
+          max-width: 600px !important;
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        table.container-table,
+        .bmeheadertext,
+        .container-table {
+          width: 95% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .mobile-footer,
+        .mobile-footer a {
+          font-size: 13px !important;
+          line-height: 18px !important;
+        }
+
+        .mobile-footer {
+          text-align: center !important;
+        }
+
+        table.share-tbl {
+          padding-bottom: 15px;
+          width: 100% !important;
+        }
+
+        table.share-tbl td {
+          display: block !important;
+          text-align: center !important;
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        td.bmeShareTD,
+        td.bmeSocialTD {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        td.tdBoxedTextBorder {
+          width: auto !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        th.tdBoxedTextBorder {
+          width: auto !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        table.blk,
+        table[name=tblText],
+        .bmeHolder,
+        .bmeHolder1,
+        table[name=bmeMainColumn] {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeImageCard table.bmeCaptionTable td[name=tblCell] {
+          padding: 0px 20px 20px 20px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeImageCard table.bmeCaptionTable.bmeCaptionTableMobileTop td[name=tblCell] {
+          padding: 20px 20px 0 20px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        table.bmeCaptionTable td[name=tblCell] {
+          padding: 10px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        table[name=tblGtr] {
+          padding-bottom: 20px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        td.blk_container,
+        .blk_parent,
+        [name=bmeLeftColumn],
+        [name=bmeRightColumn],
+        [name=bmeColumn1],
+        [name=bmeColumn2],
+        [name=bmeColumn3],
+        [name=bmeBody] {
+          display: table !important;
+          max-width: 600px !important;
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        table[class=container-table],
+        .bmeheadertext,
+        .container-table {
+          width: 95% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .mobile-footer,
+        .mobile-footer a {
+          font-size: 13px !important;
+          line-height: 18px !important;
+        }
+
+        .mobile-footer {
+          text-align: center !important;
+        }
+
+        table[class="share-tbl"] {
+          padding-bottom: 15px;
+          width: 100% !important;
+        }
+
+        table[class="share-tbl"] td {
+          display: block !important;
+          text-align: center !important;
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        td[name=bmeShareTD],
+        td[name=bmeSocialTD] {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        td[name=tdBoxedTextBorder] {
+          width: auto !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        th[name=tdBoxedTextBorder] {
+          width: auto !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeImageCard table.bmeImageTable {
+          height: auto !important;
+          width: 100% !important;
+          padding: 20px !important;
+          clear: both;
+          float: left !important;
+          border-collapse: separate;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblInline table.bmeImageTable {
+          height: auto !important;
+          width: 100% !important;
+          padding: 10px !important;
+          clear: both;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblInline table.bmeCaptionTable {
+          width: 100% !important;
+          clear: both;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        table.bmeImageTable {
+          height: auto !important;
+          width: 100% !important;
+          padding: 10px !important;
+          clear: both;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        table.bmeCaptionTable {
+          width: 100% !important;
+          clear: both;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        table.bmeImageContainer {
+          width: 100% !important;
+          clear: both;
+          float: left !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        table.bmeImageTable td {
+          padding: 0px !important;
+          height: auto;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        img.mobile-img-large {
+          width: 100% !important;
+          height: auto !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        img.bmeRSSImage {
+          max-width: 320px;
+          height: auto !important;
+        }
+      }
+
+      @media only screen and (min-width: 640px) {
+        img.bmeRSSImage {
+          max-width: 600px !important;
+          height: auto !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .trMargin img {
+          height: 10px;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        div.bmefooter,
+        div.bmeheader {
+          display: block !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .tdPart {
+          width: 100% !important;
+          clear: both;
+          float: left !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        table.blk_parent1,
+        table.tblPart {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .tblLine {
+          min-width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblCenter img {
+          margin: 0 auto;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .bmeMblCenter,
+        .bmeMblCenter div,
+        .bmeMblCenter span {
+          text-align: center !important;
+          text-align: -webkit-center !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .bmeNoBr br,
+        .bmeImageGutterRow,
+        .bmeMblStackCenter .bmeShareItem .tdMblHide {
+          display: none !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .bmeMblInline table.bmeImageTable,
+        .bmeMblInline table.bmeCaptionTable,
+        .bmeMblInline {
+          clear: none !important;
+          width: 50% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .bmeMblInlineHide,
+        .bmeShareItem .trMargin {
+          display: none !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .bmeMblInline table.bmeImageTable img,
+        .bmeMblShareCenter.tblContainer.mblSocialContain,
+        .bmeMblFollowCenter.tblContainer.mblSocialContain {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblStack>.bmeShareItem {
+          width: 100% !important;
+          clear: both !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeShareItem {
+          padding-top: 10px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+
+        .tdPart.bmeMblStackCenter,
+        .bmeMblStackCenter .bmeFollowItemIcon {
+          padding: 0px !important;
+          text-align: center !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblStackCenter>.bmeShareItem {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        td.bmeMblCenter {
+          border: 0 none transparent !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeLinkTable.tdPart td {
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+          border: 0px none transparent !important;
+          padding-bottom: 15px !important;
+          height: auto !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .tdMblHide {
+          width: 10px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeShareItemBtn {
+          display: table !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblStack td {
+          text-align: left !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblStack .bmeFollowItem {
+          clear: both !important;
+          padding-top: 10px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblStackCenter .bmeFollowItemText {
+          padding-left: 5px !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .bmeMblStackCenter .bmeFollowItem {
+          clear: both !important;
+          align-self: center;
+          float: none !important;
+          padding-top: 10px;
+          margin: 0 auto;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .tdPart>table {
+          width: 100% !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .tdPart>table.bmeLinkContainer {
+          width: auto !important;
+        }
+      }
+
+      @media only screen and (max-width: 480px) {
+        .tdPart.mblStackCenter>table.bmeLinkContainer {
+          width: 100% !important;
+        }
+      }
+
+      .blk_parent:first-child,
+      .blk_parent {
+        float: left;
+      }
+
+      .blk_parent:last-child {
+        float: right;
+      }
+
+    </style>
+ 
+  </head>
+  <body topmargin="0" leftmargin="0" style="height: 100% !important; margin: 0; padding: 0; width: 100% !important;min-width: 100%;">
+    <img src='https://benchmarkemail.benchmarkurl.com/c/o?e=163D8F8&c=91CEA&t=1&email=NyIeD9VsXLU%3D&relid=' alt='' border="0" style="display:none;" height="1" width="1">
+    <table width="100%" cellspacing="0" cellpadding="0" border="0" name="bmeMainBody" bgcolor="#ffffff" style="background-color: rgb(255, 255, 255);">
+      <tbody>
+        <tr>
+          <td width="100%" valign="top" align="center">
+            <table cellspacing="0" cellpadding="0" border="0" name="bmeMainColumnParentTable" width="100%">
+              <tbody>
+                <tr>
+                  <td name="bmeMainColumnParent" style="border-collapse: separate; border: 0px none transparent; border-radius: 0px; border-spacing: 0px; overflow: visible;">
+                    <table name="bmeMainColumn" class="bmeMainColumn" style="max-width: 100%; overflow: visible; border-radius: 0px; border-collapse: separate; border-spacing: 0px;" cellspacing="0" cellpadding="0" border="0" align="center" width="100%">
+                      <tbody>
+                        <tr>
+                          <td width="100%" class="bmeHolder" valign="top" align="center" name="bmeMainContentParent" style="border: 0px none transparent; border-radius: 0px; border-collapse: separate; border-spacing: 0px; overflow: hidden;">
+                            <table name="bmeMainContent" style="border-radius: 0px; border-collapse: separate; border-spacing: 0px; border: 0px none transparent; overflow: visible;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                              <tbody>
+                                <tr class="flexible-section" data-columns="1" data-columns-ratio="" id="section_1">
+                                  <td width="100%" class="blk_container bmeHolder bmeBody" name="bmeBody" valign="top" align="center" style="background-color: rgb(255, 255, 255);" bgcolor="#ffffff"></td>
+                                </tr>
+                                <tr class="flexible-section" data-columns="1" data-columns-ratio="" id="section_4">
+                                  <td width="100%" class="blk_container bmeHolder bmeBody" name="bmeBody" valign="top" align="center" style="background-color: rgb(3, 10, 29);" bgcolor="#030a1d">
+                                    <div id="dv_11" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding-top:20px; padding-bottom:20px;padding-left:20px;padding-right:20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top-width: 1px; border-top-style: none; min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_5" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_image" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td align="center" class="bmeImage" style="border-collapse: collapse;padding-left:20px; padding-right: 20px;padding-top:20px; padding-bottom: 20px; ">
+                                                      <img src="https://techmarkapp.netlify.app/images/logo-2.png" width="109" style="max-width: 109px; display: block; border-radius: 0px;" alt="" data-radius="0" border="0" data-original-max-width="218" class="keep-custom-width" data-customwidth="50">
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_7" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding-top:20px; padding-bottom:20px;padding-left:20px;padding-right:20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px solid rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_8" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_text" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table cellpadding="0" cellspacing="0" border="0" width="100%" class="bmeContainerRow">
+                                                <tbody>
+                                                  <tr>
+                                                    <th class="tdPart" valign="top" align="center">
+                                                      <table cellspacing="0" cellpadding="0" border="0" width="600" name="tblText" class="tblText" style="float:left; background-color:transparent;" align="left">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td valign="top" align="left" name="tblCell" class="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; color: rgb(56, 56, 56); text-align: left; word-break: break-word;">
+                                                              <div style="line-height: 150%; text-align: center;">
+                                                                <em>
+                                                                  <span style="font-size: 30px; line-height: 150%; color: rgb(255, 255, 255);">Hi there –</span>
+                                                                </em>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_9" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_text" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table cellpadding="0" cellspacing="0" border="0" width="100%" class="bmeContainerRow">
+                                                <tbody>
+                                                  <tr>
+                                                    <th class="tdPart" valign="top" align="center">
+                                                      <table cellspacing="0" cellpadding="0" border="0" width="600" name="tblText" class="tblText" style="float:left; background-color:transparent;" align="left">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td valign="top" align="left" name="tblCell" class="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; color: rgb(56, 56, 56); text-align: left; word-break: break-word;">
+                                                              <div style="line-height: 150%; text-align: center;">
+                                                                <span style="font-size: 30px;">
+                                                                  <strong>
+                                                                    <span style="line-height: 150%; color: rgb(255, 255, 255);">Ready to invest in your future?</span>
+                                                                  </strong>
+                                                                </span>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_10" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_text" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table cellpadding="0" cellspacing="0" border="0" width="100%" class="bmeContainerRow">
+                                                <tbody>
+                                                  <tr>
+                                                    <th class="tdPart" valign="top" align="center">
+                                                      <table cellspacing="0" cellpadding="0" border="0" width="600" name="tblText" class="tblText" style="float:left; background-color:transparent;" align="left">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td valign="top" align="left" name="tblCell" class="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; color: rgb(56, 56, 56); text-align: left; word-break: break-word;">
+                                                              <div style="line-height: 150%; text-align: center;">
+                                                                <span style="font-size: 21px; line-height: 150%; color: rgb(255, 255, 255);">Look no further than our real estate company, where we specialize in helping our clients find their dream properties.</span>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_12" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_image" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td align="center" class="bmeImage" style="border-collapse: collapse;padding-left:20px; padding-right: 20px;padding-top:20px; padding-bottom: 20px; ">
+                                                      <img src="https://images.benchmarkemail.com/client597226/image13902965.png" class="mobile-img-large" width="560" style="max-width: 640px; display: block; border-radius: 0px;" alt="" data-radius="0" border="0" data-original-max-width="640">
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_6" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding-top:20px; padding-bottom:20px;padding-left:20px;padding-right:20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top-width: 1px; border-top-style: none; min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr class="flexible-section" data-columns="1" data-columns-ratio="" id="section_2">
+                                  <td width="100%" class="blk_container bmeHolder bmeBody" name="bmeBody" valign="top" align="center" style="background-color: rgb(255, 255, 255);" bgcolor="#ffffff">
+                                    <div id="dv_13" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding-top:20px; padding-bottom:20px;padding-left:20px;padding-right:20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_15" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_text" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table cellpadding="0" cellspacing="0" border="0" width="100%" class="bmeContainerRow">
+                                                <tbody>
+                                                  <tr>
+                                                    <th class="tdPart" valign="top" align="center">
+                                                      <table cellspacing="0" cellpadding="0" border="0" width="600" name="tblText" class="tblText" style="float:left; background-color:transparent;" align="left">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td valign="top" align="left" name="tblCell" class="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; color: rgb(56, 56, 56); text-align: left; word-break: break-word;">
+                                                              <div style="line-height: 150%; text-align: center;">
+                                                                <span style="font-size: 20px; line-height: 150%;">We understand that buying or selling real estate can be a daunting process, but with our team of experts, we're here to make it as seamless as possible.</span>
+                                                              </div>
+                                                              <div style="line-height: 150%; text-align: center;">&nbsp;</div>
+                                                              <div style="line-height: 150%; text-align: center;">
+                                                                <span style="font-size: 20px; line-height: 150%;">We have a vast selection of properties in desirable locations throughout the city, and our knowledgeable agents can guide you through the entire process from start to finish.</span>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_3" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding-top:20px; padding-bottom:20px;padding-left:20px;padding-right:20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_14" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_image" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td align="center" class="bmeImage" style="border-collapse: collapse;padding-left:20px; padding-right: 20px;padding-top:20px; padding-bottom: 20px; ">
+                                                      <img src="https://images.benchmarkemail.com/client597226/image13902982.png" class="mobile-img-large" width="560" style="max-width: 640px; display: block; border-radius: 0px;" alt="" data-radius="0" border="0">
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_17" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding-top:20px; padding-bottom:20px;padding-left:20px;padding-right:20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_22" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_text" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table cellpadding="0" cellspacing="0" border="0" width="100%" class="bmeContainerRow">
+                                                <tbody>
+                                                  <tr>
+                                                    <th class="tdPart" valign="top" align="center">
+                                                      <table cellspacing="0" cellpadding="0" border="0" width="600" name="tblText" class="tblText" style="float:left; background-color:transparent;" align="left">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td valign="top" align="left" name="tblCell" class="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; color: rgb(56, 56, 56); text-align: left; word-break: break-word;">
+                                                              <div style="line-height: 150%; text-align: center;">
+                                                                <span style="font-size: 20px; line-height: 150%;">Whether you're looking for a cozy condo in the heart of downtown or a spacious family home in a peaceful suburban neighborhood, we've got you covered.</span>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_23" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding: 10px 20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_16" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_button" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td width="20"></td>
+                                            <td align="center">
+                                              <table class="tblContainer" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                                <tbody>
+                                                  <tr>
+                                                    <td height="10"></td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td align="center">
+                                                      <table cellspacing="0" cellpadding="0" border="0" class="bmeButton" align="center" style="border-collapse: separate;">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td style="border-radius: 0px; border-width: 0px; border-style: none; border-color: transparent; background-color: rgb(3, 10, 29); text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 20px; padding: 20px 40px; font-weight: bold; word-break: break-word;" class="bmeButtonText">
+                                                              <span style="font-family: Arial, Verdana; font-size: 20px; color: rgb(255, 255, 255);">
+                                                                <a style="color:#FFFFFF;text-decoration:none;" target="_blank">Explore Properties</a>
+                                                              </span>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </td>
+                                                  </tr>
+                                                  <tr>
+                                                    <td height="10"></td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                            <td width="20"></td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_18" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding-top:20px; padding-bottom:20px;padding-left:20px;padding-right:20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr class="flexible-section" data-columns="1" data-columns-ratio="" id="section_5">
+                                  <td width="100%" class="blk_container bmeHolder bmeBody" name="bmeBody" valign="top" align="center" style="background-color: rgb(3, 10, 29);" bgcolor="#030A1D">
+                                    <div id="dv_19" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding: 30px 20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_21" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_image" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td align="center" class="bmeImage" style="border-collapse: collapse;padding-left:20px; padding-right: 20px;padding-top:20px; padding-bottom: 20px; ">
+                                                      <img src="https://images.benchmarkemail.com/client597226/image13902999.png" width="100" style="max-width: 100px; display: block; border-radius: 0px;" alt="" data-radius="0" border="0" data-original-max-width="200" class="keep-custom-width" data-customwidth="50">
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_2" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_text" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table cellpadding="0" cellspacing="0" border="0" width="100%" class="bmeContainerRow">
+                                                <tbody>
+                                                  <tr>
+                                                    <th class="tdPart" valign="top" align="center">
+                                                      <table cellspacing="0" cellpadding="0" border="0" width="600" name="tblText" class="tblText" style="float:left; background-color:transparent;" align="left">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td valign="top" align="left" name="tblCell" class="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: 400; color: rgb(56, 56, 56); text-align: left; word-break: break-word;">
+                                                              <div style="line-height: 150%; text-align: center;">
+                                                                <span style="font-size: 20px; line-height: 150%; color: rgb(255, 255, 255);">So why wait? Contact us today to learn more about our real estate services and start your journey towards your dream property.</span>
+                                                              </div>
+                                                              <div style="line-height: 150%; text-align: center;">&nbsp;</div>
+                                                              <div style="line-height: 150%; text-align: center;">
+                                                                <span style="font-size: 20px; line-height: 150%; color: rgb(255, 255, 255);">Best regards!</span>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </th>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_20" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding: 30px 20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr id="section_3" class="flexible-section" data-columns="1">
+                                  <td width="100%" class="blk_container bmeHolder" name="bmePreFooter" valign="top" align="center" style="color: rgb(56, 56, 56); border: 0px none transparent; background-color: rgb(255, 255, 255);" bgcolor="#ffffff">
+                                    <div id="dv_24" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding: 20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_26" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_image" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td>
+                                              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                <tbody>
+                                                  <tr>
+                                                    <td align="center" class="bmeImage" style="border-collapse: collapse;padding-left:20px; padding-right: 20px;padding-top:20px; padding-bottom: 20px; ">
+                                                      <img src="https://techmarkapp.netlify.app/images/logo-dark.png" width="109" style="max-width: 109px; display: block; border-radius: 0px;" alt="" data-radius="0" border="0" data-original-max-width="218" class="keep-custom-width" data-customwidth="50">
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_27" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_social_follow" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" align="center" style="padding-top:10px; padding-bottom:10px; padding-left:20px; padding-right:20px;">
+                                              <table class="tblContainer mblSocialContain" cellspacing="0" cellpadding="0" border="0" align="center" style="text-align:center;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td class="tdItemContainer">
+                                                      <table cellspacing="0" cellpadding="0" border="0" class="mblSocialContain" style="table-layout: auto;">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td valign="top" name="bmeSocialTD" class="bmeSocialTD">
+                                                             
+                                                                                                                                                        </td>
+                                                                                                                                                        <td align="left" valign="top">
+                                                                                                                                                           
+                                                              <table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="facebook" style="float: left; display: block;" align="left">
+                                                                <tbody>
+                                                                  <tr>
+                                                                    <td align="left" class="bmeFollowItemIcon" gutter="20" width="24" style="padding-right:20px;height:20px;">
+                                                                      <a href="https://benchmarkemail.benchmarkurl.com/c/l?u=F675571&e=163D8F8&c=91CEA&t=1&seq=1" target="_blank" style="display: inline-block;background-color: rgb(3, 10, 29);border-radius: 28px;border-style: solid; border-width: 3px; border-color: rgb(3, 10, 29);" target="_blank">
+                                                                        <img src="https://ui.benchmarkemail.com/images/editor/socialicons/fb_btn.png" alt="Facebook" style="display: block; max-width: 114px;" border="0" width="24" height="24">
+                                                                      </a>
+                                                                    </td>
+                                                                  </tr>
+                                                                </tbody>
+                                                              </table>
+                                                           
+                                                                                                                                                            </td>
+                                                                                                                                                            <td align="left" valign="top">
+                                                                                                                                                                <![endif]-->
+                                                              <table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="twitter" style="float: left; display: block;" align="left">
+                                                                <tbody>
+                                                                  <tr>
+                                                                    <td align="left" class="bmeFollowItemIcon" gutter="20" width="24" style="padding-right:20px;height:20px;">
+                                                                      <a href="https://benchmarkemail.benchmarkurl.com/c/l?u=F675572&e=163D8F8&c=91CEA&t=1&seq=1" target="_blank" style="display: inline-block;background-color: rgb(3, 10, 29);border-radius: 28px;border-style: solid; border-width: 3px; border-color: rgb(3, 10, 29);" target="_blank">
+                                                                        <img src="https://ui.benchmarkemail.com/images/editor/socialicons/tw_btn.png" alt="Twitter" style="display: block; max-width: 114px;" border="0" width="24" height="24">
+                                                                      </a>
+                                                                    </td>
+                                                                  </tr>
+                                                                </tbody>
+                                                              </table>
+                                                     
+                                                                                                                                                                </td>
+                                                                                                                                                                <td align="left" valign="top">
+                                                                                                                                                                    <![endif]-->
+                                                              <table cellspacing="0" cellpadding="0" border="0" class="bmeFollowItem" type="instagram" style="float: left; display: block;" align="left">
+                                                                <tbody>
+                                                                  <tr>
+                                                                    <td align="left" class="bmeFollowItemIcon" gutter="20" width="24" style="height:20px;">
+                                                                      <a href="https://benchmarkemail.benchmarkurl.com/c/l?u=F675573&e=163D8F8&c=91CEA&t=1&seq=1" target="_blank" style="display: inline-block;background-color: rgb(3, 10, 29);border-radius: 28px;border-style: solid; border-width: 3px; border-color: rgb(3, 10, 29);" target="_blank">
+                                                                        <img src="https://ui.benchmarkemail.com/images/editor/socialicons/in_btn.png" alt="Instagram" style="display: block; max-width: 114px;" border="0" width="24" height="24">
+                                                                      </a>
+                                                                    </td>
+                                                                  </tr>
+                                                                </tbody>
+                                                              </table>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                    <div id="dv_25" class="blk_wrapper" style="">
+                                      <table width="600" cellspacing="0" cellpadding="0" border="0" class="blk" name="blk_divider" style="">
+                                        <tbody>
+                                          <tr>
+                                            <td class="tblCellMain" style="padding: 30px 20px;">
+                                              <table class="tblLine" cellspacing="0" cellpadding="0" border="0" width="100%" style="border-top: 1px none rgb(225, 225, 225); min-width: 1px;">
+                                                <tbody>
+                                                  <tr>
+                                                    <td>
+                                                      <span></span>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </div>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+`;
+const template16=`<!DOCTYPE html>    
+<html>    
+<head>
+<title>Shelves Newsletter</title>
+<link rel="shortcut icon" href="favicon.ico">
+<style type="text/css">
+table[name="blk_permission"], table[name="blk_footer"] {display:none;} 
+</style>
+<meta name="googlebot" content="noindex" />
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"/>    
+<meta content="width=device-width, initial-scale=1.0" name="viewport">       
+</head>    
+<body marginheight=0 marginwidth=0 topmargin=0 leftmargin=0 style="height: 100% !important; margin: 0; padding: 0; width: 100% !important;min-width: 100%;">    
+    
+<table name="bmeMainBody" style="background-color: rgb(215, 203, 193);" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#d7cbc1"><tbody><tr><td width="100%" valign="top" align="center"><table name="bmeMainColumnParentTable" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeMainColumnParent" style="border: 0px none transparent; border-radius: 0px; border-collapse: separate;"> <table name="bmeMainColumn" class="bmeHolder" style="max-width: 600px; border-radius: 0px; border-collapse: separate; border-spacing: 0px;" cellspacing="0" cellpadding="0" border="0" align="center">    <tbody><tr><td class="blk_container bmeHolder" name="bmePreHeader" style="color: rgb(102, 102, 102); border: 0px none transparent;" width="100%" valign="top" bgcolor="" align="center"><div id="dv_1" class="blk_wrapper"><table class="blk" name="blk_permission" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="padding:20px;"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmePermissionText" style="text-align: left;" align="left"><span style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px;line-height: 140%;"><a style="color: #16a7e0;" target="_new" href="[ViewWebURL]">View this email in your browser</a></span></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> <tr><td class="bmeHolder" name="bmeMainContentParent" style="border: 0px none rgb(102, 102, 102); border-radius: 0px; border-collapse: separate; border-spacing: 0px; overflow: hidden;" width="100%" valign="top" align="center"> <table name="bmeMainContent" style="border-radius: 0px; border-collapse: separate; border-spacing: 0px; border: 0px none transparent;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> <tbody><tr><td class="blk_container bmeHolder" name="bmeHeader" style="color: rgb(56, 56, 56); border: 0px none transparent; background-color: rgb(46, 24, 8);" width="100%" valign="top" bgcolor="#2e1808" align="center"><div id="dv_38" class="blk_wrapper"><table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="bmeImage" style="border-collapse: collapse; padding: 0px; background-color: rgb(215, 203, 193);" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/awning.png" style="max-width: 600px; display: block; width: 600px;" alt="" width="600" border="0"></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_10" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 15px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_9" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float:left; background-color:transparent;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 15px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-size: 36px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; line-height: 150%; color: #ffffff;">TechMark</span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_11" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 15px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_14" class="blk_wrapper"><table class="blk" name="blk_divider" style="background-color: rgb(40, 29, 23);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 0px;"><table class="tblLine" style="border-top-width: 1px; border-top-color: rgb(158, 143, 133); border-top-style: solid; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_12" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" style="background-color: rgb(40, 29, 23);" valign="top" align="center"><table name="tblText" style="float: left; background-color: rgb(40, 29, 23);" width="295" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" class="bmeMblCenter" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 150%;"><strong>SHOP MEN</strong></span></div></td></tr></tbody></table></td><td class="tdPart" style="background-color: rgb(40, 29, 23);" valign="top" align="center"><table name="tblGtr" style="float:right;" width="10" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td> </td></tr></tbody></table></td><td class="tdPart" style="background-color: rgb(40, 29, 23);" valign="top" align="center"><table name="tblText" style="float: right; background-color: rgb(40, 29, 23);" width="295" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="tblCell" style="padding: 10px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; line-height: 150%; color: rgb(56, 56, 56); text-align: left;" class="bmeMblCenter" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 150%;"><strong>SHOP WOMEN</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_13" class="blk_wrapper"><table class="blk" name="blk_divider" style="background-color: rgb(40, 29, 23);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 0px;"><table class="tblLine" style="border-top-width: 1px; border-top-color: rgb(158, 143, 133); border-top-style: solid; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> <tr><td class="blk_container bmeHolder" name="bmeBody" style="color: rgb(56, 56, 56); border: 0px none transparent; background-color: rgb(70, 64, 60);" width="100%" valign="top" bgcolor="#46403c" align="center"><div id="dv_18" class="blk_wrapper"><table class="blk" name="blk_divider" style="background-color: rgb(61, 32, 11);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 25px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_16" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" style="background-color: rgb(61, 32, 11);" valign="top" align="center"><table name="tblText" style="float: left; background-color: rgb(61, 32, 11);" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 0px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 14px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;"><strong>F E A T U R E D S T Y L E</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_17" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" style="background-color: rgb(61, 32, 11);" valign="top" align="center"><table name="tblText" style="float: left; background-color: rgb(61, 32, 11);" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 0px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 100%; text-align: center;"><span style="font-size: 24px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 100%;"><strong>_______</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_15" class="blk_wrapper"><table class="blk" name="blk_divider" style="background-color: rgb(61, 32, 11);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_2" class="blk_wrapper"><table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="bmeImage" style="border-collapse: collapse; padding: 0px 20px; background-color: rgb(61, 32, 11);" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/Shelves/Kid.png" style="max-width: 500px; display: block; width: 500px;" alt="" width="500" border="0"></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_19" class="blk_wrapper"><table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="bmeImage" style="border-collapse: collapse; padding: 0px; background-color: rgb(61, 32, 11);" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/Shelves/brownshelf.png" style="max-width: 560px; display: block; width: 560px;" alt="" width="560" border="0"></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_21" class="blk_wrapper"><table class="blk" name="blk_divider" style="background-color: rgb(61, 32, 11);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 25px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_22" class="blk_wrapper"><table class="blk" name="blk_divider" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 25px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_23" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float: left;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 5px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 14px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;"><strong>TechMark</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_24" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float: left;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 0px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 100%; text-align: center;"><span style="font-size: 24px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 100%;"><strong>_______</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_25" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 10px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_26" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float:left; background-color:transparent;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 36px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;">Chambray Long Sleeve<br>Button Ups</span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_27" class="blk_wrapper"><table class="blk" name="blk_imagecaption" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeCaptionContainer" style="padding-left:20px; padding-right:20px; padding-top:10px; padding-bottom:10px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" gutter="10" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:left;" width="275" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeCaptionTable" style="padding-bottom:20px; border-collapse:separate;" width="275" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 16px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;">Cream/Red</span></div></td></tr></tbody></table><table class="bmeImageTable" dimension="100%" imgid="1" width="275" height="338" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" valign="top" height="338" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/Shelves/Whitedressshirt.png" style="max-width: 400px; display: block;" alt="" width="275" border="0"></td></tr></tbody></table></td></tr></tbody></table></td><td gutter="10" class="bmeImageGutterRow" valign="top" align="center"><table width="10" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:right;" width="275" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="tdContainer" valign="top" align="right"><table class="bmeCaptionTable" style="padding-bottom:20px; border-collapse:separate;" width="275" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 16px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;">Periwinkle</span></div></td></tr></tbody></table><table class="bmeImageTable" dimension="100%" imgid="2" width="275" height="338" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" valign="top" height="338" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/Shelves/Bluedressshirt.png" style="max-width: 400px; display: block;" width="275" border="0"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_20" class="blk_wrapper"><table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="bmeImage" style="border-collapse: collapse; padding: 0px;" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/whiteshelf.png" style="max-width: 560px; display: block; width: 560px;" alt="" width="560" border="0"></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_30" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 15px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_31" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float:left; background-color:transparent;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 36px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;">Casual Wear</span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_32" class="blk_wrapper"><table class="blk" name="blk_imagecaption" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeCaptionContainer" style="padding-left:20px; padding-right:20px; padding-top:10px; padding-bottom:10px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" gutter="10" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:left;" width="275" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeCaptionTable" style="padding-bottom:20px; border-collapse:separate;" width="275" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 16px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;">Green Jersey T-shirt</span></div></td></tr></tbody></table><table class="bmeImageTable" dimension="100%" imgid="1" width="275" height="229" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" valign="center" height="229" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/greenshirt.png" style="max-width: 640px; display: block;" alt="" width="275" border="0"></td></tr></tbody></table></td></tr></tbody></table></td><td gutter="10" class="bmeImageGutterRow" valign="top" align="center"><table width="10" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:right;" width="275" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="tdContainer" valign="top" align="right"><table class="bmeCaptionTable" style="padding-bottom:20px; border-collapse:separate;" width="275" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 16px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;">Bronze Tank Top</span></div></td></tr></tbody></table><table class="bmeImageTable" dimension="100%" imgid="2" width="275" height="229" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" valign="center" height="229" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/Shelves/tank.png" style="max-width: 600px; display: block;" width="275" border="0"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_28" class="blk_wrapper"><table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="bmeImage" style="border-collapse: collapse; padding: 0px;" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/whiteshelf.png" style="max-width: 560px; display: block; width: 560px;" alt="" width="560" border="0"></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_33" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 25px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> <tr><td class="blk_container bmeHolder" name="bmePreFooter" style="color: rgb(56, 56, 56); border: 0px none transparent; background-color: rgb(39, 20, 7);" width="100%" valign="top" bgcolor="#271407" align="center"><div id="dv_3" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 25px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_4" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float: left;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 5px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 125%; text-align: center;"><span style="font-size: 14px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 125%;"><strong>Y O U   C A N   F I N D   U S   A T</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_5" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float: left;" width="600" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 0px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 100%; text-align: center;"><span style="font-size: 24px; font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; color: #ffffff; line-height: 100%;"><strong>_______</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_6" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 15px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_29" class="blk_wrapper"><table class="blk" name="blk_group" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeGroupContainer" layout="12" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" style="border-collapse:collapse;padding-top:0px; padding-bottom:0px; padding-left:0px; padding-right:0px; border-width:0px; border-style:none; border-color:rgba(0, 0, 0, 0);" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table class="bmeImageTable" imgid="1" style="height: 75px;" width="290" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="bmeImgHolder" valign="top" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/banxlogo.png" style="max-width: 150px; display: block;" alt="" width="150"></td></tr></tbody></table></td><td class="bmeImageGutterRow" gutter="20" valign="top" align="center"><table width="20" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td><td class="tdPart" valign="top" align="center"><table class="bmeImageTable" imgid="2" style="height: 75px;" width="290" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="bmeImgHolder" valign="top" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/gntlmnlogo.png" style="max-width: 150px; display: block;" width="150"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_35" class="blk_wrapper"><table class="blk" name="blk_group" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeGroupContainer" layout="24" style="border-collapse:separate;padding-top:10px; padding-bottom:10px; padding-left:20px; padding-right:20px; border-width:0px; border-style:none; border-color:rgba(0, 0, 0, 0);" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table class="bmeImageTable" imgid="1" style="height: 75px;" width="173" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="bmeImgHolder" valign="top" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/shevertonlogo.png" style="max-width: 150px; display: block;" alt="" width="150"></td></tr></tbody></table></td><td class="bmeImageGutterRow" gutter="20" valign="top" align="center"><table width="20" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td><td class="tdPart" valign="top" align="center"><table class="bmeImageTable" imgid="2" style="height: 75px;" width="174" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="bmeImgHolder" valign="top" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/stansonlogo.png" style="max-width: 150px; display: block;" alt="" width="150"></td></tr></tbody></table></td><td class="bmeImageGutterRow" gutter="20" valign="top" align="center"><table width="20" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td><td class="tdPart" valign="top" align="center"><table class="bmeImageTable" imgid="3" style="height: 75px;" width="173" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="bmeImgHolder" valign="top" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/shelves/rippleslogo.png" style="max-width: 150px; display: block;" width="150"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_36" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 25px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_37" class="blk_wrapper"><table class="blk" name="blk_navbar" style="background-color: rgb(53, 39, 30);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="padding-right:20px; padding-left:20px; padding-top:15px; padding-bottom:15px;" valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td class="tdPart" width="99%" valign="center" align="center"><table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td valign="top"<table style="float:left;" linkid="1" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 0px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="17" align="left"><a href="#" style="font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: bold; font-style: normal;">MEN</a></td></tr></tbody></table><table style="float:left;" linkid="2" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="17" align="left"><a href="#" style="font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: bold; font-style: normal;">WOMEN</a></td></tr></tbody></table><table style="float:left;" linkid="3" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="17" align="left"><a href="#" style="font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: bold; font-style: normal;">DEALS</a></td></tr></tbody></table><table style="float:left;" linkid="4" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="17" align="left"><a href="#" style="font-family: Palatino, 'Book Antiqua', 'Times New Roman', Times, serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: bold; font-style: normal;">LOCATIONS</a></td></tr></tbody></table></td></tr></tbody></table></td><td class="tdPart" width="1%" valign="center" align="center"><table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td valign="top"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_7" class="blk_wrapper"><table style="background-color: rgb(45, 33, 26);" name="blk_social_follow" class="blk" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding-top:20px; padding-bottom:20px; padding-left:20px; padding-right:20px;" align="center"><table class="tblContainer mblSocialContain" style="text-align:center;" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td class="tdItemContainer"><table class="mblSocialContain" style="table-layout: auto;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeSocialTD" valign="top"><table class="bmeFollowItem" type="facebook" style="float: left; display: block;" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td class="bmeFollowItemIcon" gutter="10" style="padding-right:10px;height:20px;" width="24" align="left"><a href="http://www.facebook.com" style="display: inline-block;background-color: rgb(151, 128, 110);border-radius: 28px;border-style: none; border-width: 0px; border-color: rgba(0, 0, 0, 0);" target="_blank"><img src="https://ui.benchmarkemail.com/images/editor/socialicons/fb_btn.png" alt="Facebook" style="display: block; max-width: 114px;" width="24" height="24" border="0"></a></td></tr></tbody></table><table class="bmeFollowItem" type="instagram" style="float: left; display: block;" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td class="bmeFollowItemIcon" gutter="10" style="padding-right:10px;height:20px;" width="24" align="left"><a href="http://instagram.com" style="display: inline-block;background-color: rgb(151, 128, 110);border-radius: 28px;border-style: none; border-width: 0px; border-color: rgba(0, 0, 0, 0);" target="_blank"><img src="https://ui.benchmarkemail.com/images/editor/socialicons/in_btn.png" alt="Instagram" style="display: block; max-width: 114px;" width="24" height="24" border="0"></a></td></tr></tbody></table<table class="bmeFollowItem" type="twitter" style="float: left; display: block;" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td class="bmeFollowItemIcon" gutter="10" style="height:20px;" width="24" align="left"><a href="http://twitter.com" style="display: inline-block;background-color: rgb(151, 128, 110);border-radius: 28px;border-style: none; border-width: 0px; border-color: rgba(0, 0, 0, 0);" target="_blank"><img src="https://ui.benchmarkemail.com/images/editor/socialicons/tw_btn.png" alt="Twitter" style="display: block; max-width: 114px;" width="24" height="24" border="0"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> </tbody></table> </td></tr>  <tr><td class="blk_container bmeHolder" name="bmeFooter" style="color: rgb(102, 102, 102); border: 0px none transparent;" width="100%" valign="top" bgcolor="" align="center"><div id="dv_8" class="blk_wrapper"><table class="blk" name="blk_footer" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="padding:20px;"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeBadgeText" style="text-align: left;" align="left"><span id="spnFooterText" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; line-height: 140%;"><var type="BME_CANSPAM">This message was sent to test@benchmarkemail.com by <span style="text-decoration:underline;">Benchmark Templates</span></var><br><var type="BME_ADDRESS">10621 Calle Lee, Building 141, Los Alamitos, CA, 90720</var></span><br><br><span style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; line-height: 140%;"><var type="BME_LINKS"><span style="text-decoration:underline" href="#"><img src="https://www.benchmarkemail.com/images/verified.png" alt="Unsubscribe from all mailings" title="Unsubscribe from all mailings" border="0"></span><span style="text-decoration:underline;">Unsubscribe</span> | <span style="text-decoration:underline;">Manage Subscription</span> |  <span style="text-decoration:underline;">Forward Email</span>  |  <span style="text-decoration:underline;">Report Abuse</span></var><br></span></td></tr><tr><td name="bmeBadgeImage" style="text-align: left; padding-top: 20px; word-break: break-all;" align="left"><var type="BME_BADGE"><img src="https://www.benchmarkemail.com/images/web4/misc/emailfooter/opt9.png" name="bmeBadgeImage" border="0"></var></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> </tbody></table></td></tr></tbody></table></td></tr></tbody></table>    
+</body>    
+</html>
+`;
+const template17 = `<!DOCTYPE html>    
+<html>    
+<head>
+<title>Learning Courses</title>
+<link rel="shortcut icon" href="favicon.ico">
+<style type="text/css">
+table[name="blk_permission"], table[name="blk_footer"] {display:none;} 
+</style>
+<meta name="googlebot" content="noindex" />
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"/>    
+<meta content="width=device-width, initial-scale=1.0" name="viewport">       
+</head>    
+<body marginheight=0 marginwidth=0 topmargin=0 leftmargin=0 style="height: 100% !important; margin: 0; padding: 0; width: 100% !important;min-width: 100%;">    
+    
+<table name="bmeMainBody" style="background-color: rgb(255, 255, 255);" width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff"><tbody><tr><td width="100%" valign="top" align="center"><table name="bmeMainColumnParentTable" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeMainColumnParent" style="border: 0px none transparent; border-radius: 0px; border-collapse: separate; border-spacing: 0px;"> <table name="bmeMainColumn" class="" style="max-width: 100%; overflow: visible;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">    <tbody><tr><td class="blk_container bmeHolder" name="bmePreHeader" style="color: rgb(102, 102, 102); border: 0px none transparent; background-color: rgb(255, 255, 255);" width="100%" valign="top" bgcolor="#ffffff" align="center"><div id="dv_2" class="blk_wrapper"><table class="blk" name="blk_permission" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="padding:20px;" valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmePermissionText" style="text-align:left;" align="left"><span style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px;line-height: 140%;"><a style="color: #16a7e0;" target="_new" href="[ViewWebURL]">View this email in your browser</a></span></td></tr></tbody></table></td></tr></tbody></table></div></td></tr> <tr><td class="bmeHolder" name="bmeMainContentParent" style="border: 0px none transparent; border-radius: 0px; border-collapse: separate; border-spacing: 0px; overflow: hidden;" width="100%" valign="top" align="center"> <table name="bmeMainContent" style="border-radius: 0px; border-collapse: separate; border-spacing: 0px; border: 0px none transparent;" width="100%" cellspacing="0" cellpadding="0" border="0" align="center"> <tbody><tr><td class="blk_container bmeHolder" name="bmeHeader" style="border: 0px none transparent; background-color: rgb(84, 181, 171);" width="100%" valign="top" bgcolor="#54b5ab" align="center"><div id="dv_9" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 5px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_1" class="blk_wrapper"><table class="blk" name="blk_navbar" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="padding-right:0px; padding-left:0px; padding-top:20px; padding-bottom:20px;" valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td class="tdPart" width="99%" valign="center" align="center"><table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td valign="top"><table style="float:left;" linkid="1" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 0px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="27" align="left"><a href="#" style="text-decoration:none;"><span style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: normal; font-style: normal;">Home</span></a></td></tr></tbody></table><table style="float:left;" linkid="2" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="27" align="left"><a href="#" style="text-decoration:none;"><span style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: normal; font-style: normal;">Courses</span></a></td></tr></tbody></table><table style="float:left;" linkid="3" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="27" align="left"><a href="#" style="text-decoration:none;"><span style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: normal; font-style: normal;"><img src="https://techmarkapp.netlify.app/images/logo-2.png" style="display: inline-block; max-width: 93px;" alt="" width="93" border="0"></span></a></td></tr></tbody></table><table style="float:left;" linkid="4" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="27" align="left"><a href="#" style="text-decoration:none;"><span style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: normal; font-style: normal;">Blog</span></a></td></tr></tbody></table><table style="float:left;" linkid="5" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 20px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="27" align="left"><a href="#" style="text-decoration:none;"><span style="font-family: Helvetica, Calibri, Arial, sans-serif; font-size: 14px; color: rgb(255, 255, 255); text-decoration: none; font-weight: normal; font-style: normal;">Forum</span></a></td></tr></tbody></table></td></tr></tbody></table></td><td class="tdPart" width="1%" valign="center" align="center"><table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td valign="top"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_12" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 5px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div>
+</td></tr> <tr><td class="blk_container bmeHolder" name="bmeBody" style="color: rgb(56, 56, 56); border: 0px none transparent; background-color: rgb(255, 255, 255);" width="100%" valign="top" bgcolor="#ffffff" align="center"><div id="dv_11" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_3" class="blk_wrapper"><table class="blk" name="blk_image" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="bmeImage" style="padding: 20px 0px; border-collapse: collapse;" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/Desk.jpg" style="max-width: 1189px; display: block; width: 600px;" alt="" width="600" border="0"></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_14" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_13" class="blk_wrapper"><table class="blk" name="blk_imagecaption" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeCaptionContainer" style="padding-left:0px; padding-right:0px; padding-top:20px; padding-bottom:20px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" gutter="20" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:left;" width="187" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeImageTable" dimension="100%" imgid="1" width="187" height="150" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" width="180" valign="top" height="150" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/Pencil-Icon.png" style="max-width: 150px; display: block;" width="150" border="0"></td></tr></tbody></table><table class="bmeCaptionTable" style="padding-top:20px; border-collapse:separate;" width="187" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-size: 18px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;"><strong>ONLINE COURSES</strong></span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #919191; font-size: 12px; line-height: 150%;">Starting Sept 8</span><br><br><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;">Some totally newsworthy newsletter copy goes here.</span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #54b5ab; line-height: 150%;"><strong>READ MORE</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td><td gutter="20" class="bmeImageGutterRow" valign="top" align="center"><table width="20" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:right;" width="186" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeImageTable" dimension="100%" imgid="2" width="186" height="150" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" width="180" valign="top" height="150" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/Cap-Icon.png" style="max-width: 150px; display: block;" width="150" border="0"></td></tr></tbody></table><table class="bmeCaptionTable" style="padding-top:20px; border-collapse:separate;" width="186" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-size: 18px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;"><strong>CERTIFICATION</strong></span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #919191; font-size: 12px; line-height: 150%;">Ceremony May 18</span><br><br><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;">Some totally newsworthy newsletter copy goes here.</span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #54b5ab; line-height: 150%;"><strong>READ MORE</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td><td gutter="20" class="bmeImageGutterRow" valign="top" align="center"><table width="20" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:right;" width="187" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeImageTable" dimension="100%" imgid="3" width="187" height="150" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" width="180" valign="top" height="150" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/Book-Icon.png" style="max-width: 150px; display: block;" width="150" border="0"></td></tr></tbody></table><table class="bmeCaptionTable" style="padding-top:20px; border-collapse:separate;" width="187" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-size: 18px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;"><strong>TUTORING</strong></span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #919191; font-size: 12px; line-height: 150%;">McCarthy Hall</span><br><br><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;">Some totally newsworthy newsletter copy goes here.</span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #54b5ab; line-height: 150%;"><strong>READ MORE</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_5" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 30px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_4" class="blk_wrapper"><table class="blk" name="blk_imagecaption" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeCaptionContainer" style="padding-left:20px; padding-right:20px; padding-top:10px; padding-bottom:10px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" gutter="10" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:left;" width="560" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeCaptionTable" style="padding-bottom:20px; border-collapse:separate;" width="560" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-family: Helvetica, Calibri, Arial, sans-serif; color: #222222; font-size: 24px; line-height: 150%;"><strong>Popular Courses</strong></span></div></td></tr></tbody></table><table class="bmeImageTable" dimension="100%" imgid="1" width="560" height="5" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" width="550" valign="top" height="5" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/Green-Divider.jpg" style="max-width: 41px; display: block;" width="41" border="0"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_17" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 15px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_16" class="blk_wrapper"><table class="blk" name="blk_imagecaption" style="background-color: rgb(247, 247, 247);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeCaptionContainer" style="padding-left:20px; padding-right:20px; padding-top:20px; padding-bottom:20px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" gutter="20" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:left;" width="270" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeImageTable" dimension="100%" imgid="1" width="270" height="181" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" width="260" valign="top" height="181" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/Pencils.jpg" style="max-width: 520px; display: block;" width="270" border="0"></td></tr></tbody></table><table class="bmeCaptionTable" style="padding-top:20px; border-collapse:separate;" width="270" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%;"><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;"><strong>ILLUSTRATION 301</strong></span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #919191; font-size: 12px; line-height: 150%;">20 Sept - 08:00 AM</span><br><br><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;">You are totally stoked about the piece of information that goes here and your subscribers will be too.</span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #54b5ab; line-height: 150%;"><strong>READ MORE</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td><td gutter="20" class="bmeImageGutterRow" valign="top" align="center"><table width="20" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:right;" width="270" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="tdContainer" valign="top" align="right"><table class="bmeImageTable" dimension="100%" imgid="2" width="270" height="181" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" width="260" valign="top" height="181" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/Xacto.jpg" style="max-width: 520px; display: block;" width="270" border="0"></td></tr></tbody></table><table class="bmeCaptionTable" style="padding-top:20px; border-collapse:separate;" width="270" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%;"><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;"><strong>DESIGN 416</strong></span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #919191; font-size: 12px; line-height: 150%;">20 Sept - 08:00 AM</span><br><br><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;">You are totally stoked about the piece of information that goes here and your subscribers will be too.</span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #54b5ab; line-height: 150%;"><strong>READ MORE</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_15" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<div id="dv_6" class="blk_wrapper"><table class="blk" name="blk_button" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="40"></td><td align="center"><table class="tblContainer" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td height="10"></td></tr><tr><td align="center"><table class="bmeButton" style="border-collapse: separate;" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td class="bmeButtonText" style="border-radius: 20px; border: 0px none transparent; text-align: center; padding: 10px 30px; font-weight: normal; background-color: rgb(84, 181, 171);"><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: rgb(255, 255, 255);"><a target="_blank" style="color:#FFFFFF;text-decoration:none;">View All Courses</a></span></td></tr></tbody></table></td></tr><tr><td height="10"></td></tr></tbody></table></td><td width="40"></td></tr></tbody></table></div><div id="dv_24" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 30px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div>
+</td></tr> <tr><td class="blk_container bmeHolder" name="bmePreFooter" style="color: rgb(56, 56, 56); border: 0px none transparent; background-color: rgb(84, 181, 171);" width="100%" valign="top" bgcolor="#54b5ab" align="center"><div id="dv_20" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 30px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_18" class="blk_wrapper"><table class="blk" name="blk_imagecaption" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeCaptionContainer" style="padding-left:20px; padding-right:20px; padding-top:10px; padding-bottom:10px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" gutter="10" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:left;" width="560" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeCaptionTable" style="padding-bottom:20px; border-collapse:separate;" width="560" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><span style="font-family: Helvetica, Calibri, Arial, sans-serif; color: #ffffff; font-size: 24px; line-height: 150%;"><strong>Information</strong></span></div></td></tr></tbody></table><table class="bmeImageTable" dimension="100%" imgid="1" width="560" height="5" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" width="550" valign="top" height="5" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/White-Divider.jpg" style="max-width: 41px; display: block;" width="41" border="0"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_19" class="blk_wrapper"><table class="blk" name="blk_text" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top" align="center"><table name="tblText" style="float:left; background-color:transparent;" width="290" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tblCell" style="padding: 20px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 150%;"><span style="font-size: 18px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #ffffff; line-height: 150%;"><strong>THE FACULTY</strong></span><br><br><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #ffffff; line-height: 150%;">You put hard work into designing your email campaign and this section is that first thing you cannot wait to share. You're excited about it and your subscribers will feel that. They'll obviously want to hear everything else you have to say after that as well.</span></div></td></tr></tbody></table></td><td class="tdPart" valign="top" align="center"><table name="tblGtr" style="float:right;" width="20" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td> </td></tr></tbody></table></td><td class="tdPart" valign="top" align="center"><table name="tblText" style="float:right;" width="290" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="tblCell" style="padding: 20px 0px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: rgb(56, 56, 56); text-align: left;" valign="top" align="left"><div style="line-height: 150%;"><span style="font-size: 18px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #ffffff; line-height: 150%;"><strong>ABOUT THE CAMPUS</strong></span><br><br><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #ffffff; line-height: 150%;">You put hard work into designing your email campaign and this section is that first thing you cannot wait to share. You're excited about it and your subscribers will feel that. They'll obviously want to hear everything else you have to say after that as well.</span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_21" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 30px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_8" class="blk_wrapper"><table class="blk" name="blk_imagecaption" style="background-color: rgb(255, 255, 255);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeCaptionContainer" style="padding-left:20px; padding-right:20px; padding-top:20px; padding-bottom:20px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" gutter="10" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:left;" width="560" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeCaptionTable" style="padding-bottom:20px; border-collapse:separate;" width="560" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%; text-align: center;"><strong><span style="font-family: Helvetica, Calibri, Arial, sans-serif; color: #222222; font-size: 24px; line-height: 150%;">Location</span></strong></div></td></tr></tbody></table><table class="bmeImageTable" dimension="100%" imgid="1" width="560" height="5" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td name="bmeImgHolder" width="550" valign="top" height="5" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/Green-Divider.jpg" style="max-width: 41px; display: block;" width="41" border="0"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_22" class="blk_wrapper"><table class="blk" name="blk_imagecaption" style="background-color: rgb(255, 255, 255);" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeCaptionContainer" style="padding-left:20px; padding-right:20px; padding-top:20px; padding-bottom:20px;border-collapse:separate;" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td class="bmeImageContainerRow" gutter="10" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tdPart" valign="top"><table class="bmeImageContainer" style="float:left;" width="560" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="tdContainer" valign="top"><table class="bmeImageTable" dimension="50%" imgid="1" style="float:left;" width="270" height="194" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td name="bmeImgHolder" width="280" valign="top" height="194" align="center"><img src="https://www.benchmarkemail.com/images/templates_n/new_editor/Templates/LearningCourses/School.jpg" style="max-width: 588px; display: block;" width="270" border="0"></td></tr></tbody></table><table class="bmeCaptionTable" style="float:right;" width="270" cellspacing="0" cellpadding="0" border="0" align="right"><tbody><tr><td name="tblCell" style="font-family: Arial,Helvetica,sans-serif; font-size: 14px; font-weight: normal; color: #383838; text-align: left;" valign="top" align="left"><div style="line-height: 150%;"><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;"><strong>Allen streen 101, NY</strong></span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #919191; font-size: 12px; line-height: 150%;">Open from 07:00 AM - 6:00 PM</span><br><br><span style="font-size: 14px; font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; color: #252525; line-height: 150%;">You are totally stoked about the piece of information that goes here and your subscribers will be too.</span><br><br><span style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Helvetica, Arial, sans-serif; font-size: 14px; color: #54b5ab; line-height: 150%;"><strong>READ MORE</strong></span></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_7" class="blk_wrapper"><table class="blk" name="blk_divider" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="tblCellMain" style="padding: 30px 20px;"><table class="tblLine" style="border-top-width: 0px; border-top-style: none; min-width: 1px;" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><span></span></td></tr></tbody></table></td></tr></tbody></table></div><div id="dv_23" class="blk_wrapper"><table class="blk" name="blk_navbar" style="" width="600" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><table class="bmeContainerRow" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="padding-right:20px; padding-left:20px; padding-top:20px; padding-bottom:20px;" valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td class="tdPart" width="30%" valign="center" align="left"><table class="tdPart tblPart bmeLinkContainer" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td valign="top"><table style="float:left;" linkid="1" class="bmeLinkTable tdPart" cellspacing="0" cellpadding="0" border="0" align="left"><tbody><tr><td gutter="20" style="font-family:Arial; font-size: 14px; color:#64656c; text-decoration:none;padding-left: 0px;padding-right: 20px;" class="bmeMblCenter" valign="center" height="27" align="left"><a href="#" style="text-decoration:none;"><span style="font-family:Arial; font-size: 14px;color:#64656c;"><img src="https://techmarkapp.netlify.app/images/logo-2.png" style="display: inline-block; max-width: 93px;" alt="" width="93" border="0"></span></a></td></tr></tbody></table></td></tr></tbody></table></td>
+
+  
+</body>    
+</html>
+`;
 const templates = [template1,template2,template3,template4,template5,template6,template7,template8,template9,template10,
-template11,template12,template13];
+template11,template12,template13,template14,template15,template16,template17,];
